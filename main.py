@@ -1,7 +1,7 @@
-"""
+r"""
 Unified Project Launcher — меню для запуска подпроектов.
 Запуск: .\.venv\Scripts\python.exe main.py
-"""
+r"""
 import os
 import sys
 import subprocess
