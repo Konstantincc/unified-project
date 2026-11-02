@@ -1,0 +1,14 @@
+django
+djangorestframework
+torch
+torchvision
+qiskit
+qiskit-aer
+numpy
+scipy
+matplotlib
+pygame
+scapy
+psutil
+pyserial
+tortoise-orm
