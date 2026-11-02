@@ -1,14 +1,28 @@
-django
-djangorestframework
-torch
-torchvision
-qiskit
-qiskit-aer
-numpy
-scipy
-matplotlib
-pygame
-scapy
-psutil
-pyserial
-tortoise-orm
+# ===== Django / веб =====
+Django>=4.2,<5.0
+djangorestframework>=3.14
+tortoise-orm>=0.20
+
+# ===== Научный стек =====
+numpy>=1.24,<2.0
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.12
+networkx>=3.2
+tqdm>=4.65
+numba>=0.58
+
+# ===== Квантовые =====
+qiskit>=1.0
+qiskit-aer>=0.13
+qibo>=0.2
+
+# ===== Сети / железо =====
+pygame>=2.5
+scapy>=2.5
+psutil>=5.9
+pyserial>=3.5
+
+# ===== Dev =====
+ipython>=8.12
