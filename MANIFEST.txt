@@ -1,4 +1,4 @@
-Всего файлов: 65
+Total: 65
 
 myproject/manage.py
 myproject/myapp/admin.py
